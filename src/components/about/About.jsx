@@ -42,7 +42,7 @@ const About = () => {
 
             </div>
             <p>
-              Dhananjay Bhardwaj, a passionate frontend developer with a strong love for crafting captivating websites. My focus is on creating intuitive user experiences that engage and delight users. From designing responsive layouts that adapt beautifully to various devices to the tiniest details, I ensure that every project is a true visual masterpiece.
+              Dhananjay Bhardwaj, a passionate fullstack developer with a strong love for crafting captivating websites. My focus is on creating intuitive user experiences that engage and delight users. From designing responsive layouts that adapt beautifully to various devices to the tiniest details, I ensure that every project is a true visual masterpiece.
               Staying up-to-date with the latest trends and technologies is essential to me, as I always strive to bring innovation to the forefront of my work.
             </p>
 
